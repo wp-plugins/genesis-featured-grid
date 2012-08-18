@@ -4,7 +4,7 @@ Donate link: http://www.HeavyDigitalCreative.com/
 Tags: genesis, grid, featured, posts, widget
 Requires at least: 2.0.2
 Tested up to: 3.1
-Stable tag: trunk
+Stable tag: 1.0
 
 Genesis Featured Grid adds a Genesis Featured Grid widget with grid layout functionality
 
